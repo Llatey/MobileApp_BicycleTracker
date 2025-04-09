@@ -1,4 +1,4 @@
-# BicyleTracker Demo for android mobile device
+![image](https://github.com/user-attachments/assets/8b790d87-8e01-4ff5-b2a2-72ba1728710d)# BicyleTracker Demo for android mobile device
 
 It is a simple bicycleTracker including booking, daily tracker, dashboard interface and feedback system.
 
@@ -15,8 +15,8 @@ It is a simple bicycleTracker including booking, daily tracker, dashboard interf
 > StartRiding:  
 ![image](https://github.com/user-attachments/assets/bd11fe5f-50dc-4ad6-a6af-14bbdb80e9a4)
 
-> Ranking System:  
-![image](https://github.com/user-attachments/assets/1a05910a-fca1-4542-85d1-edfbe9bb6951)
+> Ranking System:
+![image](https://github.com/user-attachments/assets/2f7893f4-9384-4aeb-a4dd-b23fe4ffd35f)
 
 > Booking:  
 ![image](https://github.com/user-attachments/assets/769404df-27d8-4374-8cb5-a37328dda8be)
