@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/8b790d87-8e01-4ff5-b2a2-72ba1728710d)# BicyleTracker Demo for android mobile device
-
+# BicycleTracker application for android mobile development
 It is a simple bicycleTracker including booking, daily tracker, dashboard interface and feedback system.
 
 
