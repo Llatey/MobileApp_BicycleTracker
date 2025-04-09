@@ -15,7 +15,7 @@ It is a simple bicycleTracker including booking, daily tracker, dashboard interf
 > StartRiding:  
 ![image](https://github.com/user-attachments/assets/bd11fe5f-50dc-4ad6-a6af-14bbdb80e9a4)
 
-> Ranking System:
+> Ranking System:  
 ![image](https://github.com/user-attachments/assets/2f7893f4-9384-4aeb-a4dd-b23fe4ffd35f)
 
 > Booking:  
